@@ -82,16 +82,6 @@ Figures use Times New Roman for Latin text and a CJK font for Chinese labels (Si
 | Table S15 | `dock.py`, `supp_tables.py` |
 | Numbers quoted in the text | `key_numbers.py` (prints every value used in the manuscript) |
 
-## Licence
-
-Code: MIT licence (see `LICENSE`). Data in `data/`: Creative Commons Attribution 4.0 International (CC BY 4.0). Please cite the article when using the data.
-
-## Citation
-
-See `CITATION.cff`. The article reference and DOI will be added after publication.
 
 ---
 
-## 中文说明
-
-本仓库提供论文《鲜食玉米酒香气物质的结构—分配关系与截取保留：分子结构可预测馏出位置，但不能预测酒心保留》全部计算分析的数据与代码，可复现正文图 1–7、附图与附表中的计算结果（不含论文正文）。运行方法：建立 `environment.yml` 环境后，在仓库根目录执行 `run_all.bat`（Windows）或 `bash run_all.sh`。馏分浓度的稀释回算口径尚待原始记录确认，因此保留率均同时给出 S0（表列浓度）与 S1（稀释未回算情景）两种结果。
