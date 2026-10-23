@@ -2,7 +2,7 @@
 
 Code and data for the manuscript
 
-> **Structure–partitioning relationships and cut-dependent retention of aroma compounds in fresh corn (*Zea mays* L.) wine: molecular structure predicts elution position but not heart-fraction retention** (submitted to *Journal of Advanced Research*).
+> **Structure–partitioning relationships and cut-dependent retention of aroma compounds in fresh corn (*Zea mays* L.) wine** (submitted to *Journal of Advanced Research*).
 
 The repository reproduces every computational result, main figure (Figs 1–7), supplementary figure (Figs S3, S7, S10–S14) and supplementary table (Tables S5, S7, S9–S17) of the manuscript from the deposited data. Experimental procedures are described in the manuscript; this repository contains no manuscript text.
 
